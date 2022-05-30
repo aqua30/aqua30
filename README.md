@@ -1,7 +1,9 @@
 ## Saurabh Pant
-![](https://komarev.com/ghpvc/?username=aqua30)
+![](https://androidweekly.net/issues/issue-520/badge)
+![](https://androidweekly.net/issues/issue-282/badge)
+![](https://androidweekly.net/issues/issue-276/badge)
 
-![Blank Diagram](https://user-images.githubusercontent.com/4559525/170905844-8df559ba-3bb2-44a0-a5f8-9fcf6fda6140.png)
+![Blank Diagram](https://user-images.githubusercontent.com/4559525/170910048-6b5e8daa-a729-4be3-b6fd-852af8c8245b.png)
 
 ### <ins>About</ins>
 - Software developer working on Android Applications Development. 
