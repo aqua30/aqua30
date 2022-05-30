@@ -22,8 +22,21 @@
 - Exploring Frontend using ReactJs
 
 ### <ins>Latest Blogs</ins>
-*May Issue* 🗓
+*May'22 Issue* 🗓
 - Updating UI using state management in Jetpack compose. [Read here](https://proandroiddev.com/updating-ui-using-state-management-in-jetpack-compose-e6120db7d695)
 - Time Selection Screen for Timer App in Jetpack Compose — Part I. [Read here](https://proandroiddev.com/time-selection-screen-for-timer-app-in-jetpack-compose-part-i-537ffcedb68e)
 - Strategies for managing Gradle dependencies. [Read here](https://proandroiddev.com/different-ways-to-manage-your-app-gradle-with-increasing-dependencies-count-e4105a16abb5)
 - A cleaner way to interact between Composable and ViewModel in Jetpack Compose. [Read here](https://proandroiddev.com/cleaner-way-to-interact-between-composable-and-viewmodel-in-jetpack-compose-14c8b3a74bbe)
+
+*March'22 Issue* 🗓
+- Curved Corner BottomSheet using Canvas and XML. [Read here](https://proandroiddev.com/curved-corner-bottomsheet-using-canvas-and-xml-59c30c02d56f)
+
+*Oct'21 Issue* 🗓
+- Ktor REST Apis — Part 3 (Testing Routes). [Read here](https://proandroiddev.com/build-rest-apis-using-ktor-framework-iii-87e579a7258e)
+- Ktor REST Apis — Part 2 (Create Routes). [Read here](https://proandroiddev.com/build-rest-apis-using-ktor-framework-ii-47948e89f1d6)
+- Ktor REST Apis — Part 1 (Project Set up). [Read here](https://proandroiddev.com/build-rest-apis-using-ktor-framework-i-dbbf36b332bb)
+
+*Aug'21 Issue* 🗓
+- OTP Login using Firebase, Hilt & Jetpack Components — All together in Kotlin. [Read here](https://proandroiddev.com/otp-login-using-firebase-hilt-jetpack-components-all-together-in-kotlin-718f7c6974aa)
+- Phone Selector Api with ActivityResultContracts in Kotlin. [Read here](https://proandroiddev.com/phone-selector-api-with-activityresultcontracts-in-kotlin-2cbc39252b42)
+- Android ViewPager — Resize with every page. [Read here](https://proandroiddev.com/viewpager-resize-with-every-page-b15065bb45bc)
