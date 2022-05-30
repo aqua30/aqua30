@@ -1,4 +1,6 @@
 ## Saurabh Pant
+![](https://komarev.com/ghpvc/?username=aqua30)
+
 ![Blank Diagram](https://user-images.githubusercontent.com/4559525/170905844-8df559ba-3bb2-44a0-a5f8-9fcf6fda6140.png)
 
 ### <ins>About</ins>
