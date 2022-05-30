@@ -1,16 +1,25 @@
-### Hi there 👋
+## Saurabh Pant
+![Blank Diagram](https://user-images.githubusercontent.com/4559525/170905844-8df559ba-3bb2-44a0-a5f8-9fcf6fda6140.png)
 
-<!--
-**aqua30/aqua30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <ins>About</ins>
+- Software developer working on Android Applications Development. 
+- Writer on [Medium](https://saurabhpant.medium.com/). 
+- Half marathoner(5 times 🏃).
+- Triathlon(1.5KM 🏊🏼‍ + 40 KM 🚴 + 10 KM 🏃🏻‍♂) finisher.
+- Love Driving ✇
 
-Here are some ideas to get you started:
+### <ins>In Tech</ins>
+- Contributer in open source project [Android Best Practices](https://github.com/niharika2810/android-development-best-practices)
+- Published three articles in android newsletter [Android Weekly](https://androidweekly.net/) in Issue [#520](https://androidweekly.net/issues/issue-520), [#282](https://androidweekly.net/issues/issue-282) and [#276](https://androidweekly.net/issues/issue-276)
+- Active writer on [ProAndroidDev](https://proandroiddev.com/) publication. Have publish 11 articles in it. [Check out](https://saurabhpant.medium.com/)
+- Experience in developing Native Android Applications with latest trends in industry
+- Developed cross platform apps using Flutter
+- Exploring Backend using Ktor
+- Exploring Frontend using ReactJs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <ins>Latest Blogs</ins>
+*May Issue* 🗓
+- Updating UI using state management in Jetpack compose. [Read here](https://proandroiddev.com/updating-ui-using-state-management-in-jetpack-compose-e6120db7d695)
+- Time Selection Screen for Timer App in Jetpack Compose — Part I. [Read here](https://proandroiddev.com/time-selection-screen-for-timer-app-in-jetpack-compose-part-i-537ffcedb68e)
+- Strategies for managing Gradle dependencies. [Read here](https://proandroiddev.com/different-ways-to-manage-your-app-gradle-with-increasing-dependencies-count-e4105a16abb5)
+- A cleaner way to interact between Composable and ViewModel in Jetpack Compose. [Read here](https://proandroiddev.com/cleaner-way-to-interact-between-composable-and-viewmodel-in-jetpack-compose-14c8b3a74bbe)
