@@ -27,6 +27,7 @@
 | Github Stars  | 90  |
 | Medium Blog Views  | 1.7Lakhs  |
 | Medium Blog Reads  | 89K  |
+| Medium Blogs Read Time  | 45Hours  |
 
 ### <ins>Latest Blogs</ins>
 *May'22 Issue* 🗓
