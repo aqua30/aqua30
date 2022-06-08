@@ -21,6 +21,13 @@
 - Exploring Backend using Ktor
 - Exploring Frontend using ReactJs
 
+### <ins>Stats</ins>
+| Channel  | Count |
+| ------------- | ------------- |
+| Github Stars  | 90  |
+| Medium Blog Views  | 1.7Lakhs  |
+| Medium Blog Reads  | 89K  |
+
 ### <ins>Latest Blogs</ins>
 *May'22 Issue* 🗓
 - Updating UI using state management in Jetpack compose. [Read here](https://proandroiddev.com/updating-ui-using-state-management-in-jetpack-compose-e6120db7d695)
