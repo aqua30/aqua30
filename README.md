@@ -30,6 +30,9 @@
 | Medium Blogs Read Time  | 45Hours  |
 
 ### <ins>Latest Blogs</ins>
+*June'22 Issue* 🗓
+- Parallax in Jetpack Compose. [Read here](https://saurabhpant.medium.com/parallax-in-jetpack-compose-bf521244f49)
+
 *May'22 Issue* 🗓
 - Updating UI using state management in Jetpack compose. [Read here](https://proandroiddev.com/updating-ui-using-state-management-in-jetpack-compose-e6120db7d695)
 - Time Selection Screen for Timer App in Jetpack Compose — Part I. [Read here](https://proandroiddev.com/time-selection-screen-for-timer-app-in-jetpack-compose-part-i-537ffcedb68e)
