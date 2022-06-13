@@ -24,7 +24,8 @@
 ### <ins>Stats</ins>
 | Channel  | Count |
 | ------------- | ------------- |
-| Github Stars  | 90  |
+| Repo Stars  | 90  |
+| Gist Stars  | 37  |
 | Medium Blog Views  | 1.7Lakhs  |
 | Medium Blog Reads  | 89K  |
 | Medium Blogs Read Time  | 45Hours  |
