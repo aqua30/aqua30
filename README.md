@@ -32,6 +32,7 @@
 
 ### <ins>Latest Blogs</ins>
 *June'22 Issue* 🗓
+- Custom layout designing in Jetpack Compose. [Read here](https://saurabhpant.medium.com/custom-layout-designing-in-jetpack-compose-5abbccc74ebd)
 - Creating graph in Jetpack Compose. [Read here](https://saurabhpant.medium.com/creating-graph-in-jetpack-compose-312957b11b2)
 - Parallax in Jetpack Compose. [Read here](https://saurabhpant.medium.com/parallax-in-jetpack-compose-bf521244f49)
 
