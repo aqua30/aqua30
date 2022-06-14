@@ -32,6 +32,7 @@
 
 ### <ins>Latest Blogs</ins>
 *June'22 Issue* 🗓
+- Creating graph in Jetpack Compose. [Read here](https://saurabhpant.medium.com/creating-graph-in-jetpack-compose-312957b11b2)
 - Parallax in Jetpack Compose. [Read here](https://saurabhpant.medium.com/parallax-in-jetpack-compose-bf521244f49)
 
 *May'22 Issue* 🗓
