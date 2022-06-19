@@ -1,4 +1,5 @@
 ## Saurabh Pant
+![](https://androidweekly.net/issues/issue-523/badge)
 ![](https://androidweekly.net/issues/issue-520/badge)
 ![](https://androidweekly.net/issues/issue-282/badge)
 ![](https://androidweekly.net/issues/issue-276/badge)
