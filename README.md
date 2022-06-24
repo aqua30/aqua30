@@ -20,7 +20,6 @@
 - Experience in developing Native Android Applications with latest trends in industry
 - Developed cross platform apps using Flutter
 - Exploring Backend using Ktor
-- Exploring Frontend using ReactJs
 
 ### <ins>Stats</ins>
 | Channel  | Count |
