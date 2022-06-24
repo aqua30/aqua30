@@ -15,7 +15,7 @@
 
 ### <ins>In Tech</ins>
 - Contributer in open source project [Android Best Practices](https://github.com/niharika2810/android-development-best-practices)
-- Published three articles in android newsletter [Android Weekly](https://androidweekly.net/) in Issue [#520](https://androidweekly.net/issues/issue-520), [#282](https://androidweekly.net/issues/issue-282) and [#276](https://androidweekly.net/issues/issue-276)
+- 4 Articles featured in android newsletter [Android Weekly](https://androidweekly.net/) in Issue [#523](https://androidweekly.net/issues/issue-523), [#520](https://androidweekly.net/issues/issue-520), [#282](https://androidweekly.net/issues/issue-282) and [#276](https://androidweekly.net/issues/issue-276)
 - Active writer on [ProAndroidDev](https://proandroiddev.com/) publication. Have publish 11 articles in it. [Check out](https://saurabhpant.medium.com/)
 - Experience in developing Native Android Applications with latest trends in industry
 - Developed cross platform apps using Flutter
