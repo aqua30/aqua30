@@ -21,14 +21,18 @@
 - Developed cross platform apps using Flutter
 - Exploring Backend using Ktor
 
+### Featured in newsletters
+- [Android Weekly](https://androidweekly.net/)
+- [Kotlin Weekly](http://kotlinweekly.net/)
+
 ### <ins>Stats</ins>
 | Channel  | Count |
 | ------------- | ------------- |
-| Repo Stars  | 90  |
+| Repo Stars  | 100+  |
 | Gist Stars  | 37  |
-| Medium Blog Views  | 1.7Lakhs  |
-| Medium Blog Reads  | 89K  |
-| Medium Blogs Read Time  | 45Hours  |
+| Medium Blog Views  | 1.9Lakhs  |
+| Medium Blog Reads  | 90K  |
+| Medium Blogs Read Time  | 46Hours  |
 
 ### <ins>Latest Blogs</ins>
 *June'22 Issue* 🗓
