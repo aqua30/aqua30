@@ -22,6 +22,7 @@
 - Exploring Backend using Ktor
 
 ### <ins>Featured in newsletters</ins>
+- [Droidcon.com](https://www.droidcon.com/)
 - [Android Weekly](https://androidweekly.net/)
 - [Kotlin Weekly](http://kotlinweekly.net/)
 
