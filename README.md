@@ -21,7 +21,7 @@
 - Developed cross platform apps using Flutter
 - Exploring Backend using Ktor
 
-### <ins>Featured in</ins>
+### <ins>Articles featured in</ins>
 - [Droidcon](https://www.droidcon.com/)
 - [Android Weekly Newsletter](https://androidweekly.net/)
 - [Kotlin Weekly Newsletter](http://kotlinweekly.net/)
