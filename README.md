@@ -36,7 +36,7 @@
 | Medium Blogs Read Time  | 46Hours  |
 
 ### <ins>Latest Blogs</ins>
-*June'22 Issue* 🗓
+*July'22 Issue* 🗓
 - Kotlin Flows -What, Why and How? [Read here](https://saurabhpant.medium.com/kotlin-flows-what-why-and-how-e9054327f795)
 
 *June'22 Issue* 🗓
