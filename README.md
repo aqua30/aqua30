@@ -25,6 +25,8 @@
 - [Droidcon](https://www.droidcon.com/)
 - [Android Weekly Newsletter](https://androidweekly.net/)
 - [Kotlin Weekly Newsletter](http://kotlinweekly.net/)
+- [Kotlin Trends](https://twitter.com/KotlinTrends)
+- [OnCreate Digest](https://www.oncreatedigest.com/)
 
 ### <ins>Stats</ins>
 | Channel  | Count |
