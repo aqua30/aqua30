@@ -39,6 +39,7 @@
 
 ### <ins>Latest Blogs</ins>
 *July'22 Issue* 🗓
+- A better way to pass Data from Api to Composable - Jetpack Compose [Read here](https://saurabhpant.medium.com/a-better-way-to-pass-data-from-api-to-composable-jetpack-compose-android-b844ec1da072)
 - Kotlin Flows -What, Why and How? [Read here](https://saurabhpant.medium.com/kotlin-flows-what-why-and-how-e9054327f795)
 
 *June'22 Issue* 🗓
