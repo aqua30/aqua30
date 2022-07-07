@@ -20,7 +20,7 @@
 - Developed cross platform apps using Flutter
 - Exploring Backend using Ktor
 
-### Write for medium publications
+### <ins>Writer in medium publications</ins>
 - [Better Programming](https://betterprogramming.pub/about)
 - [ProAndroidDev](https://proandroiddev.com/)
 - [Dev Genius](https://blog.devgenius.io/)
