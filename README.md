@@ -6,6 +6,9 @@
 
 ![Blank Diagram](https://user-images.githubusercontent.com/4559525/170910048-6b5e8daa-a729-4be3-b6fd-852af8c8245b.png)
 
+### <ins>LinkedIn</ins>
+Let's connect [here](https://www.linkedin.com/in/saurabh-pant-44619057/)
+
 ### <ins>About</ins>
 - Software developer working on Android Applications Development. 
 - Writer on [Medium](https://saurabhpant.medium.com/). 
