@@ -36,12 +36,14 @@
 | ------------- | ------------- |
 | Repo Stars  | 100+  |
 | Gist Stars  | 37  |
-| Medium Blog Views  | 1.9Lakhs  |
-| Medium Blog Reads  | 90K  |
-| Medium Blogs Read Time  | 46Hours  |
+| Blog Views  | 190K+  |
+| Blog Monthly Views  | 15K+  |
+| Blog Reads  | 97K+  |
+| Blogs Read Time  | 46Hours  |
 
 ### <ins>Latest Blogs</ins>
 *July'22 Issue* 🗓
+- A Perception of Exception in Kotlin Coroutines. [Read here](https://betterprogramming.pub/a-perception-of-exception-in-kotlin-coroutines-d0b87131510f)
 - A better way to pass Data from Api to Composable - Jetpack Compose [Read here](https://saurabhpant.medium.com/a-better-way-to-pass-data-from-api-to-composable-jetpack-compose-android-b844ec1da072)
 - Kotlin Flows -What, Why and How? [Read here](https://saurabhpant.medium.com/kotlin-flows-what-why-and-how-e9054327f795)
 
