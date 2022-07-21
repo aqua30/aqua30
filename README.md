@@ -10,7 +10,7 @@
 Let's connect [here](https://www.linkedin.com/in/saurabh-pant-44619057/)
 
 ### <ins>About</ins>
-- Software developer working on Android Applications Development. 
+- Software developer working with Sheroes on its Applications Development. 
 - Writer on [Medium](https://saurabhpant.medium.com/). 
 - Half marathoner(5 times 🏃).
 - Triathlon(1.5KM 🏊🏼‍ + 40 KM 🚴 + 10 KM 🏃🏻‍♂) finisher.
