@@ -48,7 +48,7 @@ Let's connect [here](https://www.linkedin.com/in/saurabh-pant-44619057/)
 ### <ins>Travel Experiences</ins>
 - [Learnings from Road trip to Ladakh](https://saurabhpant.medium.com/a-road-trip-to-ladakh-what-when-and-how-from-my-experience-44ead053e0dd)
 
-### <ins>Latest Blogs</ins>
+### <ins>Tech Blogs</ins>
 *July'22 Issue* 🗓
 - A Perception of Exception in Kotlin Coroutines. [Read here](https://betterprogramming.pub/a-perception-of-exception-in-kotlin-coroutines-d0b87131510f)
 - A better way to pass Data from Api to Composable - Jetpack Compose [Read here](https://saurabhpant.medium.com/a-better-way-to-pass-data-from-api-to-composable-jetpack-compose-android-b844ec1da072)
