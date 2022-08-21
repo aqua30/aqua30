@@ -1,4 +1,5 @@
 ## Saurabh Pant
+![](https://androidweekly.net/issues/issue-532/badge)
 ![](https://androidweekly.net/issues/issue-523/badge)
 ![](https://androidweekly.net/issues/issue-520/badge)
 ![](https://androidweekly.net/issues/issue-282/badge)
@@ -50,8 +51,9 @@ Let's connect [here](https://www.linkedin.com/in/saurabh-pant-44619057/)
 
 ### <ins>Tech Blogs</ins>
 *August'22 Issue* 🗓
-- Writing ViewModel tests in Android -Testing Fundamentals (II). [Read here](https://saurabhpant.medium.com/writing-viewmodel-tests-in-android-testing-fundamentals-ii-5bc44efa4a39)
-- Writing Local tests in Android - Testing Fundamentals (I). [Read here](https://blog.devgenius.io/writing-local-tests-in-android-testing-fundamentals-i-bf8e7e9bfc2c)
+- Testing Room database with Coroutines and Flows — Testing Fundamentals. [Read here](https://blog.devgenius.io/testing-room-database-with-coroutines-and-flows-testing-fundamentals-iii-5f6c3b9e4c94)
+- Writing ViewModel tests in Android -Testing Fundamentals. [Read here](https://saurabhpant.medium.com/writing-viewmodel-tests-in-android-testing-fundamentals-ii-5bc44efa4a39)
+- Writing Local tests in Android - Testing Fundamentals. [Read here](https://blog.devgenius.io/writing-local-tests-in-android-testing-fundamentals-i-bf8e7e9bfc2c)
 
 *July'22 Issue* 🗓
 - A Perception of Exception in Kotlin Coroutines. [Read here](https://betterprogramming.pub/a-perception-of-exception-in-kotlin-coroutines-d0b87131510f)
