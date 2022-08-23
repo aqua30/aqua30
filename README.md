@@ -51,6 +51,7 @@ Let's connect [here](https://www.linkedin.com/in/saurabh-pant-44619057/)
 
 ### <ins>Tech Blogs</ins>
 *August'22 Issue* 🗓
+- Testing Api layer in Android - Testing Fundamentals. [Read here](https://saurabhpant.medium.com/testing-api-layer-in-android-testing-fundamentals-698a4392c16e)
 - Testing Room database with Coroutines and Flows — Testing Fundamentals. [Read here](https://blog.devgenius.io/testing-room-database-with-coroutines-and-flows-testing-fundamentals-iii-5f6c3b9e4c94)
 - Writing ViewModel tests in Android -Testing Fundamentals. [Read here](https://saurabhpant.medium.com/writing-viewmodel-tests-in-android-testing-fundamentals-ii-5bc44efa4a39)
 - Writing Local tests in Android - Testing Fundamentals. [Read here](https://blog.devgenius.io/writing-local-tests-in-android-testing-fundamentals-i-bf8e7e9bfc2c)
