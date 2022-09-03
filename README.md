@@ -24,8 +24,9 @@ Let's connect [here](https://www.linkedin.com/in/saurabh-pant-44619057/)
 - Exploring Backend using Ktor
 
 ### <ins>Writer in medium publications</ins>
-- [Better Programming](https://betterprogramming.pub/about)
+- [Mobile App Development Publication](https://medium.com/mobile-app-development-publication)
 - [ProAndroidDev](https://proandroiddev.com/)
+- [Better Programming](https://betterprogramming.pub/about)
 - [Dev Genius](https://blog.devgenius.io/)
 
 ### <ins>Articles featured in</ins>
