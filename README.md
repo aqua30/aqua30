@@ -5,7 +5,7 @@
 ![](https://androidweekly.net/issues/issue-282/badge)
 ![](https://androidweekly.net/issues/issue-276/badge)
 
-![Ladakh image](https://user-images.githubusercontent.com/4559525/170910048-6b5e8daa-a729-4be3-b6fd-852af8c8245b.png)
+![Ladakh image](https://user-images.githubusercontent.com/4559525/180137034-476f66d5-e9b2-419e-9d12-9a6a13a4a589.png)
 
 ### <ins>LinkedIn</ins>
 Let's connect [here](https://www.linkedin.com/in/saurabh-pant-44619057/)
@@ -16,7 +16,6 @@ Let's connect [here](https://www.linkedin.com/in/saurabh-pant-44619057/)
 - Half marathoner(5 times 🏃).
 - Triathlon(1.5KM 🏊🏼‍ + 40 KM 🚴 + 10 KM 🏃🏻‍♂) finisher.
 - Driver (Delhi to Ladakh covered - 3200 Kms in 11 days) ✇
-![Image](https://user-images.githubusercontent.com/4559525/180137034-476f66d5-e9b2-419e-9d12-9a6a13a4a589.png)
 
 ### <ins>In Tech</ins>
 - Contributer in open source project [Android Best Practices](https://github.com/niharika2810/android-development-best-practices)
