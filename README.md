@@ -50,6 +50,9 @@ Let's connect [here](https://www.linkedin.com/in/saurabh-pant-44619057/)
 - [Learnings from Road trip to Ladakh](https://saurabhpant.medium.com/a-road-trip-to-ladakh-what-when-and-how-from-my-experience-44ead053e0dd)
 
 ### <ins>Tech Blogs</ins>
+*September'22 Issue* 🗓
+- Ktor Rest Apis - Integrating SQL Database using Ktorm. [Read here](https://saurabhpant.medium.com/ktor-rest-apis-integrating-sql-database-using-ktorm-7adacdf41003)
+
 *August'22 Issue* 🗓
 - Testing Composable in Jetpack Compose Android - Testing Fundamentals. [Read here](https://saurabhpant.medium.com/testing-composable-in-jetpack-compose-android-testing-fundamentals-d89d8d7115ae)
 - Testing Api layer in Android - Testing Fundamentals. [Read here](https://saurabhpant.medium.com/testing-api-layer-in-android-testing-fundamentals-698a4392c16e)
