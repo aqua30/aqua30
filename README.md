@@ -52,7 +52,8 @@ Let's connect [here](https://www.linkedin.com/in/saurabh-pant-44619057/)
 
 ### <ins>Tech Blogs</ins>
 *September'22 Issue* 🗓
-- Ktor Rest Apis - Integrating SQL Database using Ktorm. [Read here](https://saurabhpant.medium.com/ktor-rest-apis-integrating-sql-database-using-ktorm-7adacdf41003)
+- Ktor REST Apis — Exception handling. [Article](https://saurabhpant.medium.com/ktor-rest-apis-exception-handling-1440eac4d06d)
+- Ktor Rest Apis - Integrating SQL Database using Ktorm. [Article](https://saurabhpant.medium.com/ktor-rest-apis-integrating-sql-database-using-ktorm-7adacdf41003)
 
 *August'22 Issue* 🗓
 - Testing Composable in Jetpack Compose Android - Testing Fundamentals. [Read here](https://saurabhpant.medium.com/testing-composable-in-jetpack-compose-android-testing-fundamentals-d89d8d7115ae)
