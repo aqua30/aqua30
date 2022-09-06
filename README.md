@@ -6,10 +6,7 @@
 ![](https://androidweekly.net/issues/issue-282/badge)
 ![](https://androidweekly.net/issues/issue-276/badge)
 
-![Ladakh image](https://user-images.githubusercontent.com/4559525/180137034-476f66d5-e9b2-419e-9d12-9a6a13a4a589.png)
-
-### <ins>LinkedIn</ins>
-Let's connect [here](https://www.linkedin.com/in/saurabh-pant-44619057/)
+![stats](https://github-readme-stats.vercel.app/api?username=aqua30&hide=contribs&show_icons=true&include_all_commits=true&count_private=true)
 
 ### <ins>About</ins>
 - Software developer working with Sheroes on its Applications Development. 
@@ -24,28 +21,18 @@ Let's connect [here](https://www.linkedin.com/in/saurabh-pant-44619057/)
 - Developed cross platform apps using Flutter
 - Exploring Backend using Ktor
 
-### <ins>Writer in medium publications</ins>
+### <ins>Medium publications</ins>
 - [Mobile App Development Publication](https://medium.com/mobile-app-development-publication)
 - [ProAndroidDev](https://proandroiddev.com/)
 - [Better Programming](https://betterprogramming.pub/about)
 - [Dev Genius](https://blog.devgenius.io/)
 
-### <ins>Articles featured in</ins>
+### <ins>Featured</ins>
 - [Droidcon](https://www.droidcon.com/)
 - [Android Weekly Newsletter](https://androidweekly.net/)
 - [Kotlin Weekly Newsletter](http://kotlinweekly.net/)
 - [Kotlin Trends](https://twitter.com/KotlinTrends)
 - [OnCreate Digest](https://www.oncreatedigest.com/)
-
-### <ins>Stats</ins>
-| Channel  | Count |
-| ------------- | ------------- |
-| Repo Stars  | 100+  |
-| Gist Stars  | 37  |
-| Blog Views  | 190K+  |
-| Blog Monthly Views  | 15K+  |
-| Blog Reads  | 97K+  |
-| Blogs Read Time  | 46Hours  |
 
 ### <ins>Travel Experiences</ins>
 - [Learnings from Road trip to Ladakh](https://saurabhpant.medium.com/a-road-trip-to-ladakh-what-when-and-how-from-my-experience-44ead053e0dd)
