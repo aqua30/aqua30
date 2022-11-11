@@ -38,6 +38,10 @@
 - [Learnings from Road trip to Ladakh](https://saurabhpant.medium.com/a-road-trip-to-ladakh-what-when-and-how-from-my-experience-44ead053e0dd)
 
 ### <ins>Tech Blogs</ins>
+*November'22 Issue* 🗓
+- Migrating from Dagger to Hilt. [Article](https://blog.devgenius.io/migration-from-dagger-to-hilt-e6f60ccda191)
+- Preference Layer using Data Store- Android Jetpack. [Article](https://saurabhpant.medium.com/preference-layer-using-data-store-android-jetpack-f47416ea80e2)
+
 *September'22 Issue* 🗓
 - Ktor REST Apis — Exception handling. [Article](https://saurabhpant.medium.com/ktor-rest-apis-exception-handling-1440eac4d06d)
 - Ktor Rest Apis - Integrating SQL Database using Ktorm. [Article](https://saurabhpant.medium.com/ktor-rest-apis-integrating-sql-database-using-ktorm-7adacdf41003)
