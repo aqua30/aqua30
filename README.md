@@ -33,6 +33,7 @@
 - [Kotlin Weekly Newsletter](http://kotlinweekly.net/)
 - [Kotlin Trends](https://twitter.com/KotlinTrends)
 - [OnCreate Digest](https://www.oncreatedigest.com/)
+- [Canopas](https://blog.canopas.com/tagged/canopas-android-weekly)
 
 ### <ins>Travel Experiences</ins>
 - [Learnings from Road trip to Ladakh](https://saurabhpant.medium.com/a-road-trip-to-ladakh-what-when-and-how-from-my-experience-44ead053e0dd)
