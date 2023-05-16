@@ -39,6 +39,20 @@
 - [Learnings from Road trip to Ladakh](https://saurabhpant.medium.com/a-road-trip-to-ladakh-what-when-and-how-from-my-experience-44ead053e0dd)
 
 ### <ins>Tech Blogs</ins>
+
+## Year 2023
+
+*May'23 Issue* 🗓
+- WhatsApp Home Screen Design in Jetpack Compose [Article](https://blog.devgenius.io/whatsapp-home-screen-design-in-jetpack-compose-e131504ce6f9)
+
+*March'23 Issue* 🗓
+- SHEROES Onboarding flow Revamp — A Realization [Article](https://bootcamp.uxdesign.cc/sheroes-onboarding-flow-revamp-a-realization-a7593d68593)
+
+*January'23 Issue* 🗓
+- Update Variable State from Another Variable in Kotlin & Jetpack Compose — Android [Article](https://blog.devgenius.io/update-variable-state-from-another-variable-in-kotlin-jetpack-compose-android-23621aab407)
+
+## Year 2022
+
 *November'22 Issue* 🗓
 - Migrating from Dagger to Hilt. [Article](https://blog.devgenius.io/migration-from-dagger-to-hilt-e6f60ccda191)
 - Preference Layer using Data Store- Android Jetpack. [Article](https://saurabhpant.medium.com/preference-layer-using-data-store-android-jetpack-f47416ea80e2)
@@ -75,6 +89,8 @@
 
 *March'22 Issue* 🗓
 - Curved Corner BottomSheet using Canvas and XML. [Read here](https://proandroiddev.com/curved-corner-bottomsheet-using-canvas-and-xml-59c30c02d56f)
+
+## Year 2021
 
 *Oct'21 Issue* 🗓
 - Ktor REST Apis — Part 3 (Testing Routes). [Read here](https://proandroiddev.com/build-rest-apis-using-ktor-framework-iii-87e579a7258e)
