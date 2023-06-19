@@ -42,6 +42,9 @@
 
 ## Year 2023
 
+*June'23 Issue* 🗓
+- User stack animation in Jetpack Compose [Article](https://proandroiddev.com/user-stack-animation-in-jetpack-compose-251bd544115f)
+
 *May'23 Issue* 🗓
 - Use Flutter Screens in Native Android App & Share Data among them [Article](https://saurabhpant.medium.com/use-flutter-screens-in-native-android-app-share-data-among-them-d97d670807a6)
 - WhatsApp Home Screen Design in Jetpack Compose [Article](https://blog.devgenius.io/whatsapp-home-screen-design-in-jetpack-compose-e131504ce6f9)
