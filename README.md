@@ -44,8 +44,7 @@
 ## Year 2023
 
 *June'23 Issue* 🗓
-![](https://androidweekly.net/issues/issue-576/badge)
-- User stack animation in Jetpack Compose [Article](https://proandroiddev.com/user-stack-animation-in-jetpack-compose-251bd544115f)
+- User stack animation in Jetpack Compose [Article](https://proandroiddev.com/user-stack-animation-in-jetpack-compose-251bd544115f) (![](https://androidweekly.net/issues/issue-576/badge))
 
 *May'23 Issue* 🗓
 - Use Flutter Screens in Native Android App & Share Data among them [Article](https://saurabhpant.medium.com/use-flutter-screens-in-native-android-app-share-data-among-them-d97d670807a6)
@@ -68,9 +67,9 @@
 - Ktor Rest Apis - Integrating SQL Database using Ktorm. [Article](https://saurabhpant.medium.com/ktor-rest-apis-integrating-sql-database-using-ktorm-7adacdf41003)
 
 *August'22 Issue* 🗓
-- Testing Composable in Jetpack Compose Android - Testing Fundamentals. [Read here](https://saurabhpant.medium.com/testing-composable-in-jetpack-compose-android-testing-fundamentals-d89d8d7115ae)
+- Testing Composable in Jetpack Compose Android - Testing Fundamentals. [Read here](https://saurabhpant.medium.com/testing-composable-in-jetpack-compose-android-testing-fundamentals-d89d8d7115ae) (![](https://androidweekly.net/issues/issue-534/badge))
 - Testing Api layer in Android - Testing Fundamentals. [Read here](https://saurabhpant.medium.com/testing-api-layer-in-android-testing-fundamentals-698a4392c16e)
-- Testing Room database with Coroutines and Flows — Testing Fundamentals. [Read here](https://blog.devgenius.io/testing-room-database-with-coroutines-and-flows-testing-fundamentals-iii-5f6c3b9e4c94)
+- Testing Room database with Coroutines and Flows — Testing Fundamentals. [Read here](https://blog.devgenius.io/testing-room-database-with-coroutines-and-flows-testing-fundamentals-iii-5f6c3b9e4c94) (![](https://androidweekly.net/issues/issue-532/badge))
 - Writing ViewModel tests in Android -Testing Fundamentals. [Read here](https://saurabhpant.medium.com/writing-viewmodel-tests-in-android-testing-fundamentals-ii-5bc44efa4a39)
 - Writing Local tests in Android - Testing Fundamentals. [Read here](https://blog.devgenius.io/writing-local-tests-in-android-testing-fundamentals-i-bf8e7e9bfc2c)
 
@@ -84,13 +83,13 @@
 - Kotlin Coroutines - Job and Timeout. [Read here](https://saurabhpant.medium.com/kotlin-coroutines-job-and-timeout-d7b8c5416d69)
 - Kotlin Coroutines — What, Why & How?. [Read here](https://saurabhpant.medium.com/kotlin-coroutines-what-why-how-99529c951a2e)
 - Custom layout designing in Jetpack Compose. [Read here](https://saurabhpant.medium.com/custom-layout-designing-in-jetpack-compose-5abbccc74ebd)
-- Creating graph in Jetpack Compose. [Read here](https://saurabhpant.medium.com/creating-graph-in-jetpack-compose-312957b11b2)
+- Creating graph in Jetpack Compose. [Read here](https://saurabhpant.medium.com/creating-graph-in-jetpack-compose-312957b11b2) (![](https://androidweekly.net/issues/issue-523/badge))
 - Parallax in Jetpack Compose. [Read here](https://saurabhpant.medium.com/parallax-in-jetpack-compose-bf521244f49)
 
 *May'22 Issue* 🗓
 - Updating UI using state management in Jetpack compose. [Read here](https://proandroiddev.com/updating-ui-using-state-management-in-jetpack-compose-e6120db7d695)
 - Time Selection Screen for Timer App in Jetpack Compose — Part I. [Read here](https://proandroiddev.com/time-selection-screen-for-timer-app-in-jetpack-compose-part-i-537ffcedb68e)
-- Strategies for managing Gradle dependencies. [Read here](https://proandroiddev.com/different-ways-to-manage-your-app-gradle-with-increasing-dependencies-count-e4105a16abb5)
+- Strategies for managing Gradle dependencies. [Read here](https://proandroiddev.com/different-ways-to-manage-your-app-gradle-with-increasing-dependencies-count-e4105a16abb5) (![](https://androidweekly.net/issues/issue-520/badge))
 - A cleaner way to interact between Composable and ViewModel in Jetpack Compose. [Read here](https://proandroiddev.com/cleaner-way-to-interact-between-composable-and-viewmodel-in-jetpack-compose-14c8b3a74bbe)
 
 *March'22 Issue* 🗓
