@@ -44,6 +44,7 @@
 ## Year 2023
 
 *June'23 Issue* 🗓
+![](https://androidweekly.net/issues/issue-576/badge)
 - User stack animation in Jetpack Compose [Article](https://proandroiddev.com/user-stack-animation-in-jetpack-compose-251bd544115f)
 
 *May'23 Issue* 🗓
