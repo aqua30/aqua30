@@ -10,17 +10,18 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=aqua30&hide=contribs&show_icons=true&include_all_commits=true&count_private=true)
 
 ### <ins>About</ins>
-- Leading Frontend [@Sheroes](https://sheroes.com/) and [@MahilaMoney](https://www.mahila.money/) 
 - Writer on [Medium](https://saurabhpant.medium.com/). 
 - Half marathoner(5 times 🏃).
 - Triathlon(1.5KM 🏊🏼‍ + 40 KM 🚴 + 10 KM 🏃🏻‍♂) finisher.
 - Driver (Delhi to Ladakh covered - 3200 Kms in 11 days) ✇
 
-### <ins>In Tech</ins>
+### <ins>Professionally</ins>
+- Content author and Instructor [@Droidcon Academy](https://www.droidcon.com/)
+- Leading Frontend [@Sheroes](https://sheroes.com/) and [@MahilaMoney](https://www.mahila.money/) 
 - Contributer in open source project [Android Best Practices](https://github.com/niharika2810/android-development-best-practices)
-- Experience in developing Native Android Applications with latest trends in industry
-- Developed cross platform apps using Flutter
-- Exploring Backend using Ktor
+  
+### <ins>Youtube</ins>
+[![Screenshot 2023-06-30 at 12 10 00 AM](https://github.com/aqua30/aqua30/assets/4559525/ad3b5239-ed9d-4417-a206-332980b4ec47)](https://www.youtube.com/@_zaqua)
 
 ### <ins>Medium publications</ins>
 - [Mobile App Development Publication](https://medium.com/mobile-app-development-publication)
