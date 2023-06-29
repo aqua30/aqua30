@@ -10,7 +10,7 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=aqua30&hide=contribs&show_icons=true&include_all_commits=true&count_private=true)
 
 ### <ins>About</ins>
-- Software developer working with Sheroes on its Applications Development. 
+- Leading Frontend [@Sheroes](https://sheroes.com/) and [@MahilaMoney](https://www.mahila.money/) 
 - Writer on [Medium](https://saurabhpant.medium.com/). 
 - Half marathoner(5 times 🏃).
 - Triathlon(1.5KM 🏊🏼‍ + 40 KM 🚴 + 10 KM 🏃🏻‍♂) finisher.
