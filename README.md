@@ -44,6 +44,7 @@
 ## Year 2023
 
 *June'23 Issue* 🗓
+- Mocking APIs in a Better way in Android Jetpack Compose [Article](https://saurabhpant.medium.com/mocking-apis-in-a-better-way-in-android-jetpack-compose-36b0cc3b09d7)
 - User stack animation in Jetpack Compose [Article](https://proandroiddev.com/user-stack-animation-in-jetpack-compose-251bd544115f) (![](https://androidweekly.net/issues/issue-576/badge))
 
 *May'23 Issue* 🗓
