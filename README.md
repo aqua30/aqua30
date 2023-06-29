@@ -23,11 +23,12 @@
 ### <ins>Youtube</ins> [@_zaqua](https://www.youtube.com/@_zaqua)
 ![Screenshot 2023-06-30 at 12 10 00 AM](https://github.com/aqua30/aqua30/assets/4559525/ad3b5239-ed9d-4417-a206-332980b4ec47)
 
-### <ins>Medium publications</ins>
-- [Mobile App Development Publication](https://medium.com/mobile-app-development-publication)
+### <ins>Writer in Medium publications</ins>
 - [ProAndroidDev](https://proandroiddev.com/)
+- [Mobile App Development Publication](https://medium.com/mobile-app-development-publication)
 - [Better Programming](https://betterprogramming.pub/about)
 - [Dev Genius](https://blog.devgenius.io/)
+- [Bootcamp](https://bootcamp.uxdesign.cc/)
 
 ### <ins>Featured</ins>
 - [Droidcon](https://www.droidcon.com/)
