@@ -20,8 +20,8 @@
 - Leading Frontend [@Sheroes](https://sheroes.com/) and [@MahilaMoney](https://www.mahila.money/) 
 - Contributer in open source project [Android Best Practices](https://github.com/niharika2810/android-development-best-practices)
   
-### <ins>Youtube</ins>
-[![Screenshot 2023-06-30 at 12 10 00 AM](https://github.com/aqua30/aqua30/assets/4559525/ad3b5239-ed9d-4417-a206-332980b4ec47)](https://www.youtube.com/@_zaqua)
+### <ins>Youtube</ins> [@_zaqua](https://www.youtube.com/@_zaqua)
+![Screenshot 2023-06-30 at 12 10 00 AM](https://github.com/aqua30/aqua30/assets/4559525/ad3b5239-ed9d-4417-a206-332980b4ec47)
 
 ### <ins>Medium publications</ins>
 - [Mobile App Development Publication](https://medium.com/mobile-app-development-publication)
