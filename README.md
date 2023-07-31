@@ -9,6 +9,10 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=aqua30&hide=contribs&show_icons=true&include_all_commits=true&count_private=true)
 
+## Watch my course
+[![Screenshot 2023-07-31 at 11 39 36 PM](https://github.com/aqua30/aqua30/assets/4559525/3b314847-594b-4f6f-ace4-9d5d3e5a2bce)](https://academy.droidcon.com/course/testing-composables-in-android-jetpack-compose)
+
+
 ### <ins>About</ins>
 - Writer on [Medium](https://saurabhpant.medium.com/). 
 - Half marathoner(5 times 🏃).
@@ -16,7 +20,7 @@
 - Driver (Delhi to Ladakh covered - 3200 Kms in 11 days) ✇
 
 ### <ins>Professionally</ins>
-- Content author and Instructor [@Droidcon Academy](https://www.droidcon.com/)
+- Content author & Course Instructor [@Droidcon Academy](https://www.droidcon.com/)
 - Leading Frontend [@Sheroes](https://sheroes.com/) and [@MahilaMoney](https://www.mahila.money/) 
 - Contributer in open source project [Android Best Practices](https://github.com/niharika2810/android-development-best-practices)
   
