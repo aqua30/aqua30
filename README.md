@@ -9,8 +9,8 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=aqua30&hide=contribs&show_icons=true&include_all_commits=true&count_private=true)
 
-## [Watch my course](https://academy.droidcon.com/course/testing-composables-in-android-jetpack-compose)
-![Screenshot 2023-07-31 at 11 39 36 PM](https://github.com/aqua30/aqua30/assets/4559525/3b314847-594b-4f6f-ace4-9d5d3e5a2bce)
+## Watch my course
+- [Testing Composable in Android](https://academy.droidcon.com/course/testing-composables-in-android-jetpack-compose)
 
 
 ### <ins>About</ins>
